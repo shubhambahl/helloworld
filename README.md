@@ -1,2 +1,3 @@
 # helloworld
-a starting repository
+Hello people. hello world.
+
